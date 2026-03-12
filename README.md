@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3800&pause=600&color=00d500&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Frontend+Developer;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=36&duration=3800&pause=600&color=00d500&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Frontend+Developer;Building+Modern+Web+Experiences" />
 </h1>
 
 <p align="center">
