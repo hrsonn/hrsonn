@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space Grotesk&weight=700&size=36&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Fullstack+Developer;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=36&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Welcome;Fullstack+Developer;Hello+World" />
 </h1>
 
 <p align="center">
