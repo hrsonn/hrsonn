@@ -1,39 +1,81 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Welcome;Fullstack+Developer;Hello+World" alt="Typing SVG" /> </h1>
-
----
-
-### About
-Developer focused on performance, clean design, and functional code.  
-I work across front-end and back-end, creating efficient and modern digital experiences.  
-Production, code, and style — all in one mindset.
-
-
----
-
-## 🧰 Tools
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Welcome;Fullstack+Developer;Hello+World" />
+</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,vscode" alt="Tech Stack"; width=300px />
+Building clean interfaces, functional systems and modern web experiences.
 </p>
 
 ---
 
-## 🛠 Skills
+# 👋 About Me
+
+I'm a developer passionate about building **clean, efficient, and modern applications**.
+
+I enjoy working across the stack — from **interfaces and user experience** to **logic and system structure**.
+
+Currently focused on improving my skills in:
+
+- Frontend architecture  
+- Clean and readable code  
+- Modern development tools  
+- Performance-oriented design  
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+### Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description | Tech |
+|-------|--------|------|
+| **Project Name** | Short description of what the project does | HTML • CSS • JS |
+| **Project Name** | Short description of what the project does | Java • Backend |
+| **Project Name** | Short description of what the project does | Python |
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma" alt="Other Skills" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=hyaakk&theme=dracula&show_icons=true&include_all_commits=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyaakk&theme=dracula&layout=compact" />
 </p>
 
 ---
 
-## 📊 GitStats
-  <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hyaakk&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyaakk&theme=dracula&layout=compact" alt="Top Languages" />
-</p>
+# 📚 Currently Learning
+
+- Advanced JavaScript
+- Web architecture
+- Backend development
+- Clean code practices
 
 ---
 
-<h4 align="center">
-  Code. Build. Repeat.
-</h4>
+# 🧠 Philosophy
+
+> Code should be **clear**, **functional**, and **built to last**.
+
+---
+
+<p align="center">
+Code. Build. Improve. Repeat.
+</p>
