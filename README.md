@@ -3,12 +3,9 @@
 </h1>
 
 <p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FpcG5nZTU2Y25pNGo1ZXE1NmRrcWhjYmlqYXVkbDlueDY2aTJ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif" width="450"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FpcG5nZTU2Y25pNGo1ZXE1NmRrcWhjYmlqYXVkbDlueDY2aTJ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif" width="850"/>
 </p>
 
-<p align="center">
-Building clean interfaces, functional systems and modern web experiences.
-</p>
 
 ---
 
