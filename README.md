@@ -1,18 +1,4 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Codek&size=45&duration=2800&pause=400&color=50C878&center=true&vCenter=true&width=700&lines=Welcome;Frontend+Developer;Hello+World" />
-</h1>
-
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FpcG5nZTU2Y25pNGo1ZXE1NmRrcWhjYmlqYXVkbDlueDY2aTJ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif" width="680"/>
-</p>
-
-<p align="center">
-Building clean interfaces, functional systems and modern web experiences.
-</p>
-
----
-
-<h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Fullstack+Developer;Building+Modern+Web+Experiences" />
 </h1>
 
