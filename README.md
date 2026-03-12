@@ -17,7 +17,7 @@ I enjoy working across the stack — from **interfaces and user experience** to 
 Currently focused on improving my skills in:
 
 - Frontend architecture  
-- Clean and readable code  
+- Clean codes  
 - Modern development tools  
 - Performance-oriented design  
 
@@ -42,16 +42,6 @@ Currently focused on improving my skills in:
 
 ---
 
-# 📌 Featured Projects
-
-| Project | Description | Tech |
-|-------|--------|------|
-| **Project Name** | Short description of what the project does | HTML • CSS • JS |
-| **Project Name** | Short description of what the project does | Java • Backend |
-| **Project Name** | Short description of what the project does | Python |
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -67,12 +57,6 @@ Currently focused on improving my skills in:
 - Web architecture
 - Backend development
 - Clean code practices
-
----
-
-# 🧠 Philosophy
-
-> Code should be **clear**, **functional**, and **built to last**.
 
 ---
 
