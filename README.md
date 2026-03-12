@@ -1,9 +1,10 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Welcome;Fullstack+Developer;Hello+World" />
 </h1>
-<h1 align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FpcG5nZTU2Y25pNGo1ZXE1NmRrcWhjYmlqYXVkbDlueDY2aTJ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif" />
-</h1>
+
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FpcG5nZTU2Y25pNGo1ZXE1NmRrcWhjYmlqYXVkbDlueDY2aTJ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif" width="450"/>
+</p>
 
 <p align="center">
 Building clean interfaces, functional systems and modern web experiences.
