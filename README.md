@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/75aae843-1d0a-4335-96ea-75d31df48028" /><h1 align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=36&duration=3800&pause=600&color=00d500&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Frontend+Developer;Building+Modern+Web+Experiences" />
 </h1>
 
