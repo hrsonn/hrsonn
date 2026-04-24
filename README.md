@@ -79,6 +79,13 @@ width="250" align="right" style="margin-left: 20px;" />
   />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:555555,100:AAAAAA"
