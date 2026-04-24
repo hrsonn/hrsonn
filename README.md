@@ -1,54 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&color=0:555555,100:AAAAAA" style="width: 100%; display: block;" />
+  <img src="gitubanner.jpg" width="100%"/>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=36&duration=3800&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Frontend+Developer;Building+Modern+Web+Experiences" />
+<div align="center">
+  
+  ![Stars](https://img.shields.io/badge/⭐_STARS-11-white?style=for-the-badge&labelColor=black&color=black)
+  ![Forks](https://img.shields.io/badge/🍴_FORKS-0-white?style=for-the-badge&labelColor=black&color=black)
+  ![Followers](https://img.shields.io/badge/👥_FOLLOWERS-3-white?style=for-the-badge&labelColor=black&color=black)
 
-<br/>
+</div>
 
-<img src="githubanner.jpg"/>
+---
 
-<br/>
+##  ✸ Know About Me
 
-<h2 align="center"><em>About me</em></h2>
+<table>
+<tr>
+<td width="200px">
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" 
-width="250" align="right" style="margin-left: 20px;" />
+<img src="about.png" width="180px"/>
 
-<br/>
+</td>
+<td>
 
-<p>
-  Hello There! <em><b>I'm Harrison Santos</b></em>, a Systems Development 
-  student at <em><b>SENAI-SP</b></em>. I'm passionate about building 
-  beautiful and functional interfaces, currently focused on becoming a 
-  <em><b>Front-end Developer</b></em> and <em><b>Designer</b></em>. 
-  When I'm not coding, you'll probably find me playing games, 
-  listening to music or exploring new design concepts.
-</p>
+### Hello There! I'm Harrison Santos
 
-<br/>
-<br/>
-<br/>
-<br/>
+Systems Development student at SENAI-SP, trying to turn coffee into clean code and good design. 
+I spend most of my time building interfaces and learning the front-end world, one bug at a time. 
+When I finally step away from the screen, I'm probably gaming, listening to music or down a 
+rabbit hole of design inspiration that I'll never actually finish exploring.
 
-<h2 align="center"><em>Technologies</em></h2>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+##  ♛ Top Projects
+<table>
+<tr>
+<td width="70%">
 
-<br/>
+[![VinlandSaga](https://img.shields.io/badge/github-VINLAND_SAGA-black?style=flat-square&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/hrsonn/Vinland-Saga)
+A Vinland Saga anime encyclopedia, because someone had to do it.
 
-<h2 align="center"><em>Statistics</em></h2>
+[![monkeysclass](https://img.shields.io/badge/github-monkeysclass-white?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white)](https://github.com/hrsonn/monkeysclass)
+A school circulation management system, because someone had to keep track of it — still in development.
+
+</td>
+<td width="30%" align="center">
+
+<img src="top.png" width="180px"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+##  ♯ Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrsonn)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-oliveira-464298360/)
+
+</div>
+
+---
+
+> *Code is never finished. It only becomes slightly less terrible over time.*
+
+---
+
+## ⤯ Contribution
 
 <div align="center">
   <img 
@@ -72,13 +95,6 @@ width="250" align="right" style="margin-left: 20px;" />
 
 <br/>
 
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=hrsonn&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&currStreakNum=ffffff&sideNums=ffffff" 
-    width="55%"
-  />
-</div>
-
 ---
 
 <picture>
@@ -87,10 +103,8 @@ width="250" align="right" style="margin-left: 20px;" />
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hrsonn/hrsonn/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:555555,100:AAAAAA"
-    style="width: 100%; display: block; transform: scaleY(-1);"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 </div>
