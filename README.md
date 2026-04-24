@@ -34,8 +34,8 @@ I bridge the gap between complex code and intuitive design, one pixel at a time.
 
 ## ✱ Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git&theme=dark&perline=3" />
+<div align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=4&theme=dark&i=html,css,js,angular,figma,git,java,python" alt="My Skills" />
 </div>
 
 ---
@@ -70,8 +70,8 @@ A school circulation management system, because someone had to keep track of it 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrsonn)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-oliveira-464298360/)
+[![GitHub](https://skills.syvixor.com/api/icons?perline=15&i=github)](https://github.com/hrsonn)
+[![LinkedIn](https://skills.syvixor.com/api/icons?perline=15&i=linkedin)](https://www.linkedin.com/in/harrison-oliveira-464298360/)
 
 </div>
 
