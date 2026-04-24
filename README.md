@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&color=0:555555,100:AAAAAA" style="width: 100%; display: block;" />
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=36&duration=3800&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Frontend+Developer;Building+Modern+Web+Experiences" />
 
 <br/>
@@ -72,5 +76,12 @@ width="250" align="right" style="margin-left: 20px;" />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=hrsonn&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&currStreakNum=ffffff&sideNums=ffffff" 
     width="55%"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:555555,100:AAAAAA"
+    style="width: 100%; display: block; transform: scaleY(-1);"
   />
 </div>
