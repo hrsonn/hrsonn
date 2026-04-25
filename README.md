@@ -31,24 +31,6 @@ I bridge the gap between complex code and intuitive design, one pixel at a time.
 </tr>
 </table>
 
-## ✱ Tech Stack
-
-<div align="center">
-<table>
-<tr>
-<td width="1500px">
-
-<div align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=4&theme=dark&i=html,css,js,angular,figma,git,java,python" alt="My Skills" width="300px" />
-</div>
-
----
-
-</td>
-</tr>
-</table>
-</div>
-
 
 ## ✸ Top Projects
 <table>
@@ -80,6 +62,24 @@ I bridge the gap between complex code and intuitive design, one pixel at a time.
 </td>
 </tr>
 </table>
+
+## ✱ Tech Stack
+
+<div align="center">
+<table>
+<tr>
+<td width="1500px">
+
+<div align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=4&theme=dark&i=html,css,js,angular,figma,git,java,python" alt="My Skills" width="300px" />
+</div>
+
+---
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
