@@ -1,17 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=ffffff&color=000000" style="width: 100%; display: block;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&fontSize=70&fontColor=ffffff&color=000000" style="width: 100%; display: block;" />
 </div>
 
 <div align="center">
   <img src="gitubanner.jpg" width="100%" alt="Harrison Santos Banner"/>
 </div>
 
-<div align="center">
-  <br>
-  <h3><em>dev • design • whatever it takes</em></h3>
-</div>
-
----
 
 ## ✸ Know About Me
 
@@ -42,10 +36,10 @@ I bridge the gap between complex code and intuitive design, one pixel at a time.
 <div align="center">
 <table>
 <tr>
-<td width="1100px">
+<td width="1500px">
 
 <div align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=4&theme=dark&i=html,css,js,angular,figma,git,java,python" alt="My Skills" />
+  <img src="https://skills.syvixor.com/api/icons?perline=4&theme=dark&i=html,css,js,angular,figma,git,java,python" alt="My Skills" width="300px" />
 </div>
 
 ---
@@ -121,6 +115,8 @@ I bridge the gap between complex code and intuitive design, one pixel at a time.
   />
 </div>
 
+---
+<br>
 </td>
 </tr>
 </table>
@@ -129,5 +125,5 @@ I bridge the gap between complex code and intuitive design, one pixel at a time.
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer" width="100%"/>
 </div>
