@@ -6,30 +6,6 @@
   </picture>
 </div>
 
-<!---------- FEATURED ---------->
-
-<div align="center">
-  <picture>
-    <img src="feature.png" width="100%" alt="Featured"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/hrsonn/Vinland-Saga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrsonn&repo=Vinland-Saga&bg_color=ffffff&title_color=000000&text_color=404040&icon_color=000000&border_color=000000&hide_border=false&description_lines_count=2" />
-  </a>
-  
-  &nbsp;&nbsp;
-  
-  <a href="https://github.com/hrsonn/monkeysclass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrsonn&repo=monkeysclass&bg_color=ffffff&title_color=000000&text_color=404040&icon_color=000000&border_color=000000&hide_border=false&description_lines_count=2" />
-  </a>
-</div>
-
-<br/>
-
 <!---------- TECH STACK ---------->
 
 <div align="center">
@@ -46,6 +22,19 @@
 
 <br/>
 
+<!-- FEATURED PROJECTS -->
+<div align="center">
+  <img src="feature.png" width="100%" style="border-radius: 10px;" />
+  
+  <br/><br/>
+
+  <a href="https://github.com/hrsonn/Vinland-Saga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrsonn&repo=Vinland-Saga&theme=transparent&bg_color=000,000&title_color=000000&text_color=acb0be&icon_color=000000&border_color=000000&show_owner=true" width="45%" />
+  </a>
+  <a href="https://github.com/hrsonn/monkeysclass">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrsonn&repo=monkeysclass&theme=transparent&bg_color=000,000&title_color=000000&text_color=acb0be&icon_color=000000&border_color=000000&show_owner=true" width="45%" />
+  </a>
+</div>
 <div align="center">
   <picture>
     <img src="contribution.png" width="100%" alt="Contributions"/>
