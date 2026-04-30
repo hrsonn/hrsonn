@@ -52,9 +52,7 @@
   <img src="contribution.png" width="100%" alt="Contributions" style="border-radius: 10px;"/>
 </div>
 
-<div align="center">
-  <img src="contribution.png" width="100%" alt="Contributions" style="border-radius: 10px;"/>
-</div>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hrsonn&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&hide_border=false" width="48%" alt="Stats" />
