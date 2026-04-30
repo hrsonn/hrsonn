@@ -1,129 +1,89 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&fontSize=70&fontColor=ffffff&color=000000" style="width: 100%; display: block;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&fontSize=70&fontColor=000000&color=ffffff" style="width: 100%; display: block;" />
 </div>
-
-<div align="center">
-  <img src="gitubanner.jpg" width="100%" alt="Harrison Santos Banner"/>
-</div>
-
-
-## ✸ Know About Me
-
-<table>
-<tr>
-<td width="300px">
-
-<img src="about.png" width="280px" alt="Profile Image"/>
-
-
-
-</td>
-<td>
-
-### Hello There! I'm Harrison Santos
-
-Systems Development student at SENAI-SP, specializing in front-end development. 
-I bridge the gap between complex code and intuitive design, one pixel at a time. When my IDE is closed, you’ll find me gaming or listening to Frank Ocean.
 
 ---
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="about.png" width="100%" alt="About Banner"/>
+</div>
 
+<br/>
 
-## ✸ Top Projects
-<table>
-<tr>
-<td width="70%">
+<div align="center">
+  <img src="feature.png" width="100%" alt="Feature Banner"/>
+</div>
 
-<br>
+<br/>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/hrsonn/Vinland-Saga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrsonn&repo=Vinland-Saga&bg_color=000000&title_color=ffffff&text_color=bfbfbf&icon_color=ffffff&hide_border=true" />
-  </a>  <a href="https://github.com/hrsonn/monkeysclass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrsonn&repo=monkeysclass&bg_color=000000&title_color=ffffff&text_color=bfbfbf&icon_color=ffffff&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrsonn&repo=Vinland-Saga&bg_color=ffffff&title_color=000000&text_color=404040&icon_color=000000&hide_border=false&border_color=000000" />
   </a>
-</p>
-
-<p align="center">
-  <sub>Some of my favorite builds.</sub>
-</p>
-
----
-
-</td>
-<td width="30%" align="center">
-
-<img src="top.png" width="280px" alt="Project Icon"/>
-
-
-</td>
-</tr>
-</table>
-
-## ✱ Tech Stack
-
-<div align="center">
-<table>
-<tr>
-<td width="1500px">
-
-<div align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=4&theme=dark&i=html,css,js,angular,figma,git,java,python" alt="My Skills" width="300px" />
+  &nbsp;
+  <a href="https://github.com/hrsonn/monkeysclass">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrsonn&repo=monkeysclass&bg_color=ffffff&title_color=000000&text_color=404040&icon_color=000000&hide_border=false&border_color=000000" />
+  </a>
 </div>
 
----
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## ✱ Contribution
-
-<table>
-<tr>
-<td width="70%">
+<br/>
 
 <div align="center">
-  <br>
+  <sub>✦ Some of my favorite builds ✦</sub>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="tech stack.png" width="100%" alt="Tech Stack Banner"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=8&theme=light&i=html,css,js,angular,figma,git,java,python" alt="My Skills" width="420px" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="contribution.png" width="100%" alt="Contribution Banner"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hrsonn&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" 
-    width="50%"
+    src="https://github-readme-stats.vercel.app/api?username=hrsonn&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&hide_border=false" 
+    width="48%"
     alt="Stats"
   />
+  &nbsp;
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrsonn&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" 
-    width="38%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrsonn&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&hide_border=false" 
+    width="36%"
     alt="Langs"
   />
 </div>
 
----
-
 <br/>
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hrsonn&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" 
-    width="88%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hrsonn&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=false" 
+    width="90%"
     alt="Activity Graph"
   />
 </div>
 
----
-<br>
-</td>
-</tr>
-</table>
-
 <br/>
 
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer" width="100%"/>
 </div>
