@@ -28,14 +28,17 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/hrsonn/Vinland-Saga">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrsonn&repo=Vinland-Saga&bg_color=ffffff&title_color=000000&text_color=444444&icon_color=000000&border_color=000000&show_owner=false&description_lines_count=3" />
-        </a>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hrsonn&repo=Vinland-Saga"
+  />
+</a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/hrsonn/monkeysclass">
@@ -55,15 +58,26 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrsonn&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&hide_border=false" width="48%" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrsonn&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&hide_border=false" width="36%" alt="Langs" />
+  <a href="https://github.com/hrsonn">
+    <img 
+      height="180em"
+      src="https://streak-stats.demolab.com?user=hrsonn&locale=pt-br&mode=daily&theme=default&hide_border=false&border_radius=8&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" 
+    />
+  </a>
+
+  <a href="https://github.com/hrsonn">
+    <img 
+      height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrsonn&show_icons=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" 
+    />
+  </a>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrsonn&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=false" width="90%" alt="Activity Graph" />
+  <img 
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hrsonn&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&hide_border=true" 
+  />
 </div>
-
-<br/>
