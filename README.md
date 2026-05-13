@@ -119,22 +119,6 @@
 
 <!--  ═══════════════  CONTATO  ═══════════════  -->
 
-<br/>
-
-<div align="center">
-
-<h3>◆ &nbsp; Vamos conversar? &nbsp; ◆</h3>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-hrsonn-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrsonn)
-
-<br/>
-
-*Aberto a projetos, colaborações e boas ideias.*
-
-</div>
-
 <br/><br/>
 
 <div align="center">
