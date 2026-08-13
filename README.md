@@ -38,45 +38,26 @@
 
 <div align="center">
   <img src="feature.png" width="100%" alt="Featured Projects"/>
-</div>
 
-<br/>
-
-<div align="center">
-
-
-<table border="0" cellspacing="0" cellpadding="6">
+<table align="center">
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/hrsonn/lessscreen">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hrsonn&repo=lessscreen&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&show_owner=false" />
+    <td align="center">
+      <a href="https://monkeysclass.vercel.app/">
+        <img width="300" src="https://gh-card.dev/repos/hrsonn/monkeysclass.svg" alt="MonkeysClass" />
       </a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/hrsonn/monkeysclass">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hrsonn&repo=monkeysclass&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&show_owner=false" />
+    <td align="center">
+      <a href="https://github.com/hrsonn/CafeAroma-Sabor">
+        <img width="300" src="https://gh-card.dev/repos/hrsonn/CafeAroma-Sabor.svg" alt="Cafe Aroma & Sabor" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/hrsonn/Vinland-Saga">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hrsonn&repo=Vinland-Saga&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&show_owner=false" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/hrsonn?tab=repositories">
-        <img src="https://img.shields.io/badge/Ver+todos+os+repositórios→-000000?style=for-the-badge&labelColor=000000&color=000000" />
+    <td align="center">
+      <a href="https://github.com/hrsonn/void-webstore">
+        <img width="300" src="https://gh-card.dev/repos/hrsonn/void-webstore.svg" alt="Void Webstore" />
       </a>
     </td>
   </tr>
 </table>
-
-</div>
-
-<br/>
-
----
 
 <!--  ═══════════════  CONTRIBUIÇÕES  ═══════════════  -->
 
