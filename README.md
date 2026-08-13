@@ -78,12 +78,6 @@
   />
 </a>
 &nbsp;
-<a href="https://github.com/hrsonn">
-  <img 
-    height="175em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrsonn&show_icons=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&include_all_commits=true&count_private=true"
-  />
-</a>
 
 <br/><br/>
 
