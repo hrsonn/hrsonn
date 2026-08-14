@@ -42,7 +42,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://monkeysclass.vercel.app/">
+      <a href="https://github.com/hrsonn/monkeysclass">
         <img width="300" src="https://gh-card.dev/repos/hrsonn/monkeysclass.svg" alt="MonkeysClass" />
       </a>
     </td>
