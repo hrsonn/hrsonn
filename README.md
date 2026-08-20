@@ -71,16 +71,6 @@
 
 <br/>
 
-<a href="https://github.com/hrsonn">
-  <img 
-    height="175em"
-    src="https://streak-stats.demolab.com?user=hrsonn&locale=pt-br&mode=daily&theme=default&hide_border=false&border_radius=8&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=555555"
-  />
-</a>
-&nbsp;
-
-<br/><br/>
-
 <img 
   width="94%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=hrsonn&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&hide_border=false&border_color=000000&radius=8"
