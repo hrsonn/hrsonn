@@ -71,11 +71,11 @@
 
 <br/>
 
-<img 
-  width="94%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=hrsonn&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&hide_border=false&border_color=000000&radius=8"
-/>
-
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=hrsonn&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&currStreakNum=ffffff&sideNums=ffffff" 
+    width="55%"
+  />
 </div>
 
 <br/>
