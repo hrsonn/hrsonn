@@ -21,7 +21,7 @@
 <!--  ═══════════════  TECH STACK  ═══════════════  -->
 
 <div align="center">
-  <img src="tech stack.png" width="100%" alt="Tech Stack"/>
+  <img src="tech-stack.png" width="100%" alt="Tech Stack"/>
 </div>
 
 <br/>
