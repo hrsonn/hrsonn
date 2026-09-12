@@ -37,6 +37,10 @@
 <!--  ═══════════════  PROJETOS  ═══════════════  -->
 
 <div align="center">
+  <img src="feature.png" width="100%" alt="Tech Stack"/>
+</div>
+
+<div align="center">
 
 <a href="https://github.com/hrsonn/monkeysclass">
   <img width="410" src="https://github-readme-stats-omega-five-97.vercel.app/api/pin/?username=hrsonn&repo=monkeysclass&theme=github_dark&bg_color=000000&border_color=F222AD&title_color=F222AD&text_color=F222AD&icon_color=F222AD" alt="MonkeysClass" />
