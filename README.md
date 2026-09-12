@@ -40,6 +40,8 @@
   <img src="feature.png" width="100%" alt="Tech Stack"/>
 </div>
 
+<br/>
+
 <div align="center">
 
 <a href="https://github.com/hrsonn/monkeysclass">
