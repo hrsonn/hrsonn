@@ -37,27 +37,19 @@
 <!--  ═══════════════  PROJETOS  ═══════════════  -->
 
 <div align="center">
-  <img src="feature.png" width="100%" alt="Featured Projects"/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/hrsonn/monkeysclass">
-        <img width="300" src="https://gh-card.dev/repos/hrsonn/monkeysclass.svg" alt="MonkeysClass" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hrsonn/CafeAroma-Sabor">
-        <img width="300" src="https://gh-card.dev/repos/hrsonn/CafeAroma-Sabor.svg" alt="Cafe Aroma & Sabor" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hrsonn/void-webstore">
-        <img width="300" src="https://gh-card.dev/repos/hrsonn/void-webstore.svg" alt="Void Webstore" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/hrsonn/monkeysclass">
+  <img width="410" src="https://github-readme-stats-omega-five-97.vercel.app/api/pin/?username=hrsonn&repo=monkeysclass&theme=github_dark&bg_color=000000&border_color=F222AD&title_color=F222AD&text_color=F222AD&icon_color=F222AD" alt="MonkeysClass" />
+</a>
+<a href="https://github.com/hrsonn/CafeAroma-Sabor">
+  <img width="410" src="https://github-readme-stats-omega-five-97.vercel.app/api/pin/?username=hrsonn&repo=CafeAroma-Sabor&theme=github_dark&bg_color=000000&border_color=F222AD&title_color=F222AD&text_color=F222AD&icon_color=F222AD" alt="Cafe Aroma & Sabor" />
+</a>
+<br/>
+<a href="https://github.com/hrsonn/void-webstore">
+  <img width="410" src="https://github-readme-stats-omega-five-97.vercel.app/api/pin/?username=hrsonn&repo=void-webstore&theme=github_dark&bg_color=000000&border_color=F222AD&title_color=F222AD&text_color=F222AD&icon_color=F222AD" alt="Void Webstore" />
+</a>
+
+</div>
 
 <!--  ═══════════════  CONTRIBUIÇÕES  ═══════════════  -->
 
@@ -73,7 +65,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=hrsonn&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&currStreakNum=ffffff&sideNums=ffffff" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=hrsonn&background=000000&ring=F222AD&fire=F222AD&currStreakLabel=F222AD&sideLabels=F222AD&dates=F222AD&stroke=F222AD&border=F222AD&currStreakNum=F222AD&sideNums=F222AD" 
     width="55%"
   />
 </div>
